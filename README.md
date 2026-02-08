@@ -21,3 +21,7 @@ dotnet run
 ```
 
 3. Otwórz `Frontend/index.html` w przeglądarce.
+
+## Autorzy
+- Daniel Strielnikow
+- Jan Kowalski
