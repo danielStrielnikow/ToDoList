@@ -24,3 +24,4 @@ dotnet run
 
 ## Autorzy
 - Daniel Strielnikow
+- Jan Kowalski
